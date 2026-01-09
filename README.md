@@ -64,6 +64,3 @@ Dashboards / Alerting Systems / Storage
 * Stateful Stream Processing
 * Python
 * Docker (for local setup)
-
-
-Just say the word 🚀
